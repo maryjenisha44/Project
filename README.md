@@ -1,4 +1,5 @@
 PERSONAL FINANCE PLANNER -PERSONAL FINANCE PLANNER APPLICATION
+
 Description
 
 The Personal Finance Planner is a digital tool designed to help individuals efficiently manage their income, expenses, savings, and investments. It empowers users to track spending habits, set financial goals, create budgets, and plan for future expenses such as education, travel, or retirement. By providing real-time insights into one’s financial health, it promotes smarter financial decision-making and long-term financial stability.
